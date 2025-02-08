@@ -10,3 +10,4 @@ public class dudas {
         numero[0] = numero[0] + 10;
     }
 }
+/* asdasd */
